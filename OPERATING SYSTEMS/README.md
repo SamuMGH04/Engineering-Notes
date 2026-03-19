@@ -17,7 +17,7 @@ The material covers most of the world behind Operating Systems, in particular to
 * **7. Mass-Storage Structure & I/O Systems**
 * **8. File System**
 
---
+---
 
 ## 🛠️ Technical Details
 * **Format:** PDF ( compiled from LaTeX )
