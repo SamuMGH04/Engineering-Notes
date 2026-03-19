@@ -6,7 +6,7 @@
 
 A curated collection of technical notes, diagrams, examples, and study materials focused on **Computer Engineering**. This repository serves as my personal digital garden and knowledge base.
 
-> 📢 [!IMPORTANT]
+> [!IMPORTANT]
 > **Language Note:** While the repository structure and README are in English, the core technical content is written in **Italian** to ensure maximum clarity and precision in conceptual expression.
 
 ---
