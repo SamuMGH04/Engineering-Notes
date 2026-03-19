@@ -8,7 +8,7 @@ Welcome to the **Operating Systems** section of my digital garden. This folder c
 
 The material covers most of the world behind Operating Systems, in particular topics such as:
 
-* **1. Introduction to OSs**
+* **1. Introduction to OS**
 * **2. Process and Threads**
 * **3. CPU Scheduling and Process Synchronization**
 * **4. Deadlocks**
