@@ -11,10 +11,10 @@ A curated collection of technical notes, diagrams, examples, and study materials
 
 ---
 
-## 📌 Overview
+## Overview
 This repository contains organized documentation covering various branches of Computer Engineering, ranging from low-level hardware architecture to high-level software design.
 
-- **Status:** 🚧 Constantly Updated
+- **Status:** Constantly Updated
 - **Goal:** To provide a reliable, version-controlled, and exhaustive reference for complex engineering concepts.
 
 ---
