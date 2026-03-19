@@ -6,12 +6,12 @@
 
 A curated collection of technical notes, diagrams, examples, and study materials focused on **Computer Engineering**. This repository serves as my personal digital garden and knowledge base.
 
-> [!IMPORTANT]
+> 📢 [!IMPORTANT]
 > **Language Note:** While the repository structure and README are in English, the core technical content is written in **Italian** to ensure maximum clarity and precision in conceptual expression.
 
 ---
 
-## Overview
+## 🔭 Overview
 This repository contains organized documentation covering various branches of Computer Engineering, ranging from low-level hardware architecture to high-level software design.
 
 - **Status:** Constantly Updated
@@ -19,24 +19,24 @@ This repository contains organized documentation covering various branches of Co
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 The contents are organized in folders, one for each topic (e.g., **Computer Architecture**, **Operating Systems**, **Databases**). Each folder contains the relative PDF documentation.
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 *  **Editor:** VS Code & LaTeX
 *  **Diagrams:** TikZ (LaTeX)
 *  **Format:** PDF
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 **GitHub Profile:** [SamuMGH04](https://github.com/SamuMGH04)
 
 ---
 
-## License
+## 📄 License
 This repository is protected and distributed under the **CC BY-NC-ND 4.0** license.
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
