@@ -1,6 +1,6 @@
 # ⚙️ Operating Systems
 
-Welcome to the **Operating Systems** section of my digital garden. This folder containes detailed explained notes of the complex topics regarding Operating Systems
+Welcome to the **Operating Systems** section of my digital garden. This folder contains in-depth notes of the complex topics regarding Operating Systems
 
 ---
 
@@ -21,4 +21,4 @@ The material covers most of the world behind Operating Systems, in particular to
 
 ## 🛠️ Technical Details
 * **Format:** PDF ( compiled from LaTeX )
-* **Approach:** Understanding how a OS works
+* **Approach:** Understanding how a OS works from the ground up
