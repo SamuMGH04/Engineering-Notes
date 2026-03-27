@@ -4,7 +4,7 @@
 ![Field: Engineering](https://img.shields.io/badge/Field-Engineering-blue?style=for-the-badge)
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 
-A curated collection of technical notes, diagrams, examples, and study materials focused on **Computer Engineering**. This repository serves as my personal digital garden and knowledge base.
+Welcome to my Engineering Notes Repository. This is a curated collection of technical notes, diagrams, examples, and study materials focused on **Computer Engineering**. This repository serves as my personal digital garden and knowledge base.
 
 > [!IMPORTANT]
 > **Language Note:** While the repository structure and README are in English, the core technical content is written in **Italian** to ensure maximum clarity and precision in conceptual expression.
