@@ -12,7 +12,7 @@ The material is orgasined to cover most of topics regarding Circuits and Systems
 1. **Electromagnetism concepts , Sinusoidal Steady State**
 2. **Kirchhoff's Laws, Bipoles, Conductance, Power, Open and Short Circuit, Ideal Sources**
 3. **Conncections in Series and Parallel, Dividers**
-4. **Thevenin and Norton Models, Two Ports Models**
+4. **Thevenin and Norton Models, Two Ports Models, Piloted Generators, Ideal Transformers**
 
 ---
 
