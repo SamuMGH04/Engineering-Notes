@@ -1,6 +1,6 @@
 #  🔌 Circuits and Systems
 
-Welcome to the **Circuit and Systems** section of my digital garden. This folder contains detailed notes and exercises regarding topics listed below
+Welcome to the **Circuits and Systems** section of my digital garden. This folder contains detailed notes and exercises regarding topics listed below
 
 
 ---
