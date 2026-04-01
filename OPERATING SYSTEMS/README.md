@@ -24,4 +24,4 @@ The material covers most of the world behind Operating Systems, in particular to
 * **Approach:** Understanding how a OS works from the ground up
 
 ## 🚧 Status
-This folder is constantly updated with new files and / or changes in readme or other files
+This folder is constantly updated with new files and / or changes of readme or other files
