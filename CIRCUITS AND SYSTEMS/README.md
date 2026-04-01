@@ -20,5 +20,8 @@ The material is orgasined to cover most of topics regarding Circuits and Systems
 * **Format:** PDF ( compiled from LaTeX )
 * **Approach:** Both theoretical and practical parts
 
+## 🚧 Status
+This folder is constantly updated with new files and / or changes of readme or other files
+
 
 
