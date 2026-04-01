@@ -24,5 +24,5 @@ The material is organized following a logical path from signal theory to modern 
 * **Approach:** Theoretical derivation followed by practical engineering examples.
 
 ## 🚧 Status
-This folder is constantly updated with new files and / or changes in readme or other files
+This folder is constantly updated with new files and / or changes of readme or other files
 
