@@ -23,3 +23,6 @@ The material is organized following a logical path from signal theory to modern 
 * **Format:** PDF (compiled from LaTeX)
 * **Approach:** Theoretical derivation followed by practical engineering examples.
 
+## 🚧 Status
+This folder is constantly updated with new files and / or changes in readme or other files
+
