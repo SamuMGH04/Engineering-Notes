@@ -18,4 +18,4 @@ The material in this folder covers advanced C++ programming, such as concept of 
 ---
 
 ## 🚧 Status
-This folder is constantly updated with new files and / or changes in readme or other files
+This folder is constantly updated with new files and / or changes of readme or other files
