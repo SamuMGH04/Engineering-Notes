@@ -22,3 +22,6 @@ The material covers most of the world behind Operating Systems, in particular to
 ## 🛠️ Technical Details
 * **Format:** PDF ( compiled from LaTeX )
 * **Approach:** Understanding how a OS works from the ground up
+
+## 🚧 Status
+This folder is constantly updated with new files and / or changes in readme or other files
