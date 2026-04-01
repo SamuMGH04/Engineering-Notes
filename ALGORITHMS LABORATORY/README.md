@@ -5,7 +5,6 @@ Welcome to the **Algorithms Laboratory** section of my digital garden. This fold
 ---
 
 ## 📚 Topics Covered
-
 The material in this folder covers advanced C++ programming, such as concept of overload operators, class, struct, OOP:
 1. **Classes and Objects**
 2. **Overloading Operators**
@@ -15,3 +14,8 @@ The material in this folder covers advanced C++ programming, such as concept of 
 ## 🛠️ Techical Details
 * **Format:** PDF ( compiled from LaTeX )
 * **Approach:** Discovering advanced C++ concepts
+
+---
+
+## 🚧 Status
+This folder is constantly updated with new files and / or changes in readme or other files
