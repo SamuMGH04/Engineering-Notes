@@ -13,6 +13,7 @@ The material is orgasined to cover most of topics regarding Circuits and Systems
 2. **Kirchhoff's Laws, Bipoles, Conductance, Power, Open and Short Circuit, Ideal Sources**
 3. **Conncections in Series and Parallel, Dividers**
 4. **Thevenin and Norton Models, Two Ports Models, Piloted Generators, Ideal Transformers**
+5. **Graphs, Paths, Subgraphs, Cuts, Tableau Method, Superposition Principle, Tellegen's Theorem**
 
 ---
 
