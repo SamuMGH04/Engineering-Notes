@@ -8,6 +8,7 @@ Welcome to the **Algorithms Laboratory** section of my digital garden. This fold
 The material in this folder covers advanced C++ programming, such as concept of overload operators, class, struct, OOP:
 1. **Classes and Objects**
 2. **Overloading Operators**
+3. **Object Oriented Programming (OOP), Inheritance, Polymorphism, Technical note of "std::ostream&"**
 
 ---
 
